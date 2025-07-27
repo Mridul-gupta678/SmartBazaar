@@ -203,4 +203,4 @@ If you have any questions or need help:
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
-Made with ❤️ for the farming community
+Made with ❤️ for the Walmart India’s procurement team and other retail Companies.
