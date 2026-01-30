@@ -45,7 +45,7 @@ SmartMandi/
 ### Key Functionalities
 - Real-time demand forecasting for agricultural products
 - Dynamic pricing based on market conditions
-- User-friendly marketplace interface
+- User-friendly marketplace interface shown
 - Data visualization and analytics dashboard
 - Farmer and buyer management system
 
