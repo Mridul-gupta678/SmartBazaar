@@ -173,6 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 - **Mridul Gupta** - Project Lead & ML Engineer
+- **Aahona Mukhopadhyay**
 - 
 ## 🎯 Future Enhancements
 
