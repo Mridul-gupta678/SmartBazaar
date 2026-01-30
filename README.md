@@ -173,7 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 - **Mridul Gupta** - Project Lead & ML Engineer
-- **Shivanand Giri**-frontendd
+- **Shivanand Giri**-frontend
 ## 🎯 Future Enhancements
 
 - [ ] Mobile application development
