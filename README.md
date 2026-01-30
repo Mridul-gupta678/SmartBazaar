@@ -62,7 +62,7 @@ SmartMandi/
 ### Backend
 - **Node.js**: Server runtime
 - **Express.js**: Web framework
-- **MongoDB**: Database
+- **MongoDB**:  Database
 - **Mongoose**: MongoDB object modeling
 
 ### Frontend
@@ -85,7 +85,7 @@ SmartMandi/
 - **Features**: Supply levels, demand forecasts, competitor pricing, seasonal factors
 - **Output**: Optimal price recommendations
 
-## 🚀 Getting Started
+## 🚀 Getting Started...
 
 ### Prerequisites
 - Node.js (v14 or higher)
