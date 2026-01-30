@@ -172,10 +172,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Mridul Gupta**
-- **Krishna kumar dey**
-- **Aahona Mukhopadhyay**
-- **Shivanad Giri**
+- ** Mridul Gupta **
+- ** Krishna kumar dey **
+- ** Aahona Mukhopadhyay **
+- ** Shivanad Giri **
   
 ## 🎯 Future Enhancements
 
