@@ -85,7 +85,7 @@ SmartMandi/
 - **Features**: Supply levels, demand forecasts, competitor pricing, seasonal factors
 - **Output**: Optimal price recommendations
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -93,7 +93,7 @@ SmartMandi/
 - MongoDB
 - Git
 
-### Installation
+### Installation process
 
 1. **Clone the repository**
    ```bash
