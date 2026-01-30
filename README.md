@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Mridul Gupta** - Project Lead & ML Engineer
+- **Mridul Gupta**
 - 
 ## 🎯 Future Enhancements
 
@@ -190,7 +190,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 - Create an [Issue](https://github.com/NitishDwi07/SmartMandis/issues)
 - Contact the maintainers
-- Check the [Wiki](https://github.com/NitishDwi07/SmartMandis/wiki) for detailed documentation
 
 ## 🌟 Acknowledgments
 
